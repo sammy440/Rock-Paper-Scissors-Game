@@ -1,0 +1,12 @@
+# Core dependencies for Rock-Paper-Scissors Game
+# Python 3.8+ required
+
+# Tkinter is bundled with Python, no need to install separately
+
+# Optional dependencies for Bluetooth multiplayer
+# Uncomment if you want to implement Bluetooth features:
+# pybluez==0.23  # For classic Bluetooth (works better on Linux)
+# bleak==0.21.1  # For Bluetooth Low Energy (cross-platform)
+
+# Development dependencies
+# pyinstaller==5.13.0  # For creating executables
